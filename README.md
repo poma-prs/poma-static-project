@@ -1,0 +1,1 @@
+# poma-static-project

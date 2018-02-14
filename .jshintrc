@@ -1,0 +1,12 @@
+{
+	"boss": true,
+	"debug": true,
+	"curly": true,
+	"eqeqeq": true,
+	"eqnull": true,
+	"expr": true,
+	"noarg": true,
+	"quotmark": "single",
+	"trailing": true,
+	"unused": true
+}

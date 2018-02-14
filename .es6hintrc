@@ -1,0 +1,12 @@
+{
+	"boss": true,
+	"debug": true,
+	"eqeqeq": true,
+	"eqnull": true,
+	"esversion": 6,
+	"expr": true,
+	"quotmark": "single",
+	"trailing": true,
+	"unused": true,
+	"varstmt": true
+}
